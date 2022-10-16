@@ -1,4 +1,5 @@
 mod sorting;
+mod search;
 
 fn main() {
 
